@@ -1,6 +1,8 @@
 # projeto
 <h1 align="center"> DevLinks </h1>
 
+![Cover](https://github.com/sarahmax0/projeto/assets/107958995/059f8daa-6b45-4e48-922e-edb2e572d597)
+
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
